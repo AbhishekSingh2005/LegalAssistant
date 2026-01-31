@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+scraped_documents/
+source_documents/
+db/
+*.log
+tempCodeRunnerFile.py
