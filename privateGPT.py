@@ -40,7 +40,7 @@ st.markdown("""
     .main-header {
         background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
         padding: 1rem;
-        border-radius: 10px;
+        border-radius: 11px;
         margin-bottom: 2rem;
         color: white;
         text-align: center;
