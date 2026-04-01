@@ -1,4 +1,4 @@
-# ⚖️ Legal AI – RAG-Powered Legal Assistant
+#RAG-Powered Legal Assistant
 
 A privacy-focused Legal AI assistant that provides accurate, citation-based answers to legal questions using the Indian legal system, including the Constitution of India and other legal texts. Built with Retrieval-Augmented Generation (RAG) for reliable, source-grounded responses.
 
@@ -38,7 +38,7 @@ A privacy-focused Legal AI assistant that provides accurate, citation-based answ
      ollama pull llama3.2
      ```
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Add legal documents** to the `source_documents/` folder
 
@@ -67,7 +67,7 @@ legal-ai-rag/
 └── requirements.txt   # Dependencies
 ```
 
-## ⚠️ Important Notes
+## Important Notes
 
 - This tool is for educational purposes only
 - Not a substitute for professional legal advice
